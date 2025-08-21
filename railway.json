@@ -1,6 +1,0 @@
-{
-  "build": {
-    "env": "python"
-  },
-  "start": "python sas.py"
-}
